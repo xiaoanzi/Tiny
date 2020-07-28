@@ -1,6 +1,6 @@
 # Tiny
 
-此库来源于 [https://github.com/Sunzxyong/Tiny。]
+此库来源于 https://github.com/Sunzxyong/Tiny
 
 修改了一下兼容了 android Q。
 
